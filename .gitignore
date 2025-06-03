@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+*.class
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+*.jar
+*.exe
