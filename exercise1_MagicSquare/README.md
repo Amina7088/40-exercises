@@ -1,4 +1,4 @@
-hackerrank бодлого: https://github.com/
+hackerrank бодлого: [https://github.com/](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)
 
 Бодлогын өгүүлбэр:
 
