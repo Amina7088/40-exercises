@@ -14,5 +14,6 @@ hackerrank бодлого:https://www.hackerrank.com/challenges/non-divisible-su
 
 Ийм нөхцөл хангах хамгийн их хэмжээтэй subset (дэд цуглуулга)-ийн хэдэн элементтэй байж болох вэ?
 
-![image](https://github.com/user-attachments/assets/f9824d65-438c-42e0-9418-b0ee7202efc4)
+![image](https://github.com/user-attachments/assets/3efd0f95-c978-4828-ae70-14bff763bd51)
+
 
