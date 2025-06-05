@@ -17,3 +17,5 @@ hackerrank бодлого:https://www.hackerrank.com/challenges/bigger-is-greate
 Лексикографиараа дараалалд том болох гэдэг нь үсгүүдийн ASCII кодны дагуу дараалал ихсэх гэсэн үг.
 
 Мөрийн хамгийн жижиг дарааллаас хамгийн их дараалал хүртэл бүх боломжуудыг авч үзнэ.
+
+![image](https://github.com/user-attachments/assets/4155b7e8-33b9-45ce-9e70-1c39fe85b084)
