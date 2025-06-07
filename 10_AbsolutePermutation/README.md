@@ -4,4 +4,5 @@ hackerrank бодлого:https://www.hackerrank.com/challenges/absolute-permuta
 
 ∀i ∈ [1, n], |P[i] - i| == k
 
+![image](https://github.com/user-attachments/assets/09007713-85a8-4c82-9bd2-3b0f09dd956f)
 
