@@ -22,3 +22,4 @@ Bomberman тоглоом нь хоёр хэмжээст торон дээр то
 
 Таны үүрэг: n секундын дараах торонгийн төлөвийг олох.
 
+![image](https://github.com/user-attachments/assets/6e6d3087-9f05-4918-8fe8-d841af9abb52)
