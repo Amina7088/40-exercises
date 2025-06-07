@@ -23,7 +23,6 @@ hackerrank бодлого:http://hackerrank.com/challenges/larrys-array/problem?
 𝐴
 𝐵
 𝐶
-ABC→BCA→CAB→ABC
 
 Жишээ:
 
